@@ -1,9 +1,14 @@
-# Write a program to add two numbers together
+# Write a mortgage calculator
 # The code must be concise with comments describing what each line of code does
 
 def main():
-  sum1 = 10
-  sum2 = 20
-  total = 0
+  
+  # user input
+  user_first_name = input("Enter your forname: ")
+  user_age = int(input("Enter your age: ")
+                 
+  # If statement to determine if inputs meet the mortgage rules
+                 
+  # Perform monthly mortgage payments
   
 main()
