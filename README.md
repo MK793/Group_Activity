@@ -4,6 +4,7 @@ You have been asked to develop a mortgage calculator using python.  The mortgage
 - Income
 - Mortgage Amount
 - Mortgage Term
+
 The mortgage should only be accepted if the following rules have been satisfied:
 - Age is > 18 and < 50
 - Income is > £20000
